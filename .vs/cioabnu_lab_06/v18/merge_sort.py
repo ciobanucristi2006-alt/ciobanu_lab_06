@@ -29,6 +29,3 @@ def merge_sort(a):
 
     return rezultat
 
-a = list(map(int, input("Introdu numerele: ").split()))
-
-print (merge_sort(a))
